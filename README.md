@@ -1,6 +1,6 @@
 [![@anjalijha042's Holopin board](https://holopin.me/anjalijha042)](https://holopin.io/@anjalijha042)
 <h1 align="center">Hey Guys!! 👋, I'm Anjali jha</h1>
-<h3 align="center">A passionate 3rd year computer science engineering student & currently learning web development along with UI/UX designing. </h3>
+<h3 align="center">A passionate Final year computer science engineering student & currently learning web development along with UI/UX designing. </h3>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Anjalijha123) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Anjalijha123)
 <br> <br> 
